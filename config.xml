@@ -9,5 +9,6 @@
     <author href="http://tomcanham.website" email="tascanham@gmail.com">
         Tom Canham
     </author>
+   <icon src="icon.png" />
     <preference name="orientation" value="landscape"/>
 </widget>
