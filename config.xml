@@ -17,4 +17,5 @@
         Tom Canham
     </author>
         <preference name="orientation" value="landscape" />
+        <icon src="icon.png" />
 </widget>
