@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.tom.todolist"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>To Do List</name>
+
+    <description>
+       An app to make a to do list
+    </description>
+
+    <author href="http://tomcanham.website" email="tascanham@gmail.com">
+        Tom Canham
+    </author>
+
+</widget>
